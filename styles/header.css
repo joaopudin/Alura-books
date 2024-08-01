@@ -1,3 +1,4 @@
+
 .cabeçalho__menu-hamburguer {
     width: 24px;
     height: 24px;
@@ -57,5 +58,3 @@
 .container__botao {
     display: none;
 }
-
-@media screen and (min-width: 1024px) {}
